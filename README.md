@@ -6,13 +6,14 @@ Our database name is moviesdb and we have data about Movies under movies table, 
 
 To import the database and data do the following:- 
 
+* Download moviesdb excel file and db file 
 * Make sure prerequisite Visual Studio from any of 2017 to latest is installed or install it from https://visualstudio.microsoft.com/downloads/
 * Make sure prerequisite Microsoft Visual C++ 2015-2022 Redistributable is installed or install it from https://www.microsoft.com/en-in/download/details.aspx?id=48145
 * Install latest MySQL Database from https://www.mysql.com/downloads/ by checking all default options
 * Open and connect to MySQL Workbench
 * Go to Server, Data Import 
 * Under Import from Disk option, there we have Import Options, There select Import from Self-Contained File
-* Browse to the Location where you have database file with. sql extension,s elect it and hit Import 
+* Browse to the Location where you have database file with. sql extension downloaded, select it and hit Import 
 * Now once the Green Status Bar gets completed hit Schemas on left pannel, refresh them and you should have your database there 
 
 In this Analysis we have used various functions, operators, loop and clause of SQL like :-
