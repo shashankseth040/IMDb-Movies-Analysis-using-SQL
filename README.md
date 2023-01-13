@@ -1,4 +1,4 @@
-IMDb- Movies- Analysis-using-SQL
+**IMDb- Movies- Analysis-using-SQL
 
 Over database name is moviesdb and we have collected data about movies, actors, budget and revenue of movies, there imdb ratings and performance to perform some analysis using SQL simple and complex queries in optimized way 
 
